@@ -1,0 +1,1463 @@
+26363 
+  17 Category: Essay » Author profile
+   7 Category: Essay » Business
+   4 Category: Essay » Legal
+  57 Category: Essay » Literature
+  60 Category: Essay » Political
+  36 Category: Essay » Sociology
+  28 Category: Essay » Technology
+   2 Category: Fiction
+   3 Category: Fiction » Adventure
+ 440 Category: Fiction » Adventure » Action
+ 229 Category: Fiction » Adventure » General
+  52 Category: Fiction » Adventure » Men’s adventure
+  38 Category: Fiction » Adventure » Sea adventures
+  52 Category: Fiction » Adventure » Travel
+  61 Category: Fiction » Adventure » War & military adventure
+  11 Category: Fiction » African American fiction » Christian
+  18 Category: Fiction » African American fiction » Contemporary woman
+  33 Category: Fiction » African American fiction » General
+   4 Category: Fiction » African American fiction » Historical
+  14 Category: Fiction » African American fiction » Mystery & detective
+  46 Category: Fiction » African American fiction » Romance
+  55 Category: Fiction » African American fiction » Urban life
+  31 Category: Fiction » Alternative history
+   1 Category: Fiction » Anthologies
+   2 Category: Fiction » Anthologies » Drama/Theatrical
+  19 Category: Fiction » Anthologies » Flash fiction
+  52 Category: Fiction » Anthologies » General
+  40 Category: Fiction » Anthologies » Horror
+   4 Category: Fiction » Anthologies » Mystery
+  39 Category: Fiction » Anthologies » Poetry - multi-author
+   7 Category: Fiction » Anthologies » Poetry - single author
+ 190 Category: Fiction » Anthologies » Short stories - multi-author
+ 175 Category: Fiction » Anthologies » Short stories - single author
+  33 Category: Fiction » Biographical
+   6 Category: Fiction » Business
+  22 Category: Fiction » Children’s books » Action & Adventure / Pirates
+  49 Category: Fiction » Children’s books » Action & Adventure / Survival Stories
+   2 Category: Fiction » Children’s books » Animals » Birds
+  10 Category: Fiction » Children’s books » Animals » General
+   1 Category: Fiction » Children’s books » Animals » Insects (except lepidopterans), spiders, etc.
+   1 Category: Fiction » Children’s books » Animals » Marine creatures (general)
+   1 Category: Fiction » Children’s books » Animals » Mice, rats, & other rodents
+   1 Category: Fiction » Children’s books » Animals » Mythical animals » General
+   1 Category: Fiction » Children’s books » Animals » Pets & domestic animals » Cats
+   3 Category: Fiction » Children’s books » Animals » Pets & domestic animals » Dogs
+   1 Category: Fiction » Children’s books » Animals » Squirrels
+   2 Category: Fiction » Children’s books » Animals » Wild animals (general)
+   1 Category: Fiction » Children’s books » Animals » Wolves & coyotes
+   2 Category: Fiction » Children’s books » Boys & Men
+   3 Category: Fiction » Children’s books » Classics
+   1 Category: Fiction » Children’s books » Comics & Graphic Novels / Manga
+   1 Category: Fiction » Children’s books » Computers
+   3 Category: Fiction » Children’s books » Dystopian
+  11 Category: Fiction » Children’s books » Entertainment
+   7 Category: Fiction » Children’s books » Fairy Tales & Folklore / Adaptations
+   2 Category: Fiction » Children’s books » Fairy Tales & Folklore / Anthologies
+  32 Category: Fiction » Children’s books » Fairy tales & fables
+   9 Category: Fiction » Children’s books » Family / General
+   1 Category: Fiction » Children’s books » Family / Multigenerational
+   1 Category: Fiction » Children’s books » Family / Parents
+   1 Category: Fiction » Children’s books » Family / Siblings
+ 106 Category: Fiction » Children’s books » Fiction
+   2 Category: Fiction » Children’s books » Historical / Ancient Civilizations
+   1 Category: Fiction » Children’s books » Historical / Asia
+   1 Category: Fiction » Children’s books » Historical / Canada / General
+   1 Category: Fiction » Children’s books » Historical / Europe
+   2 Category: Fiction » Children’s books » Historical / Medieval
+   1 Category: Fiction » Children’s books » Historical / Other
+   2 Category: Fiction » Children’s books » Historical / United States / 19th Century
+   3 Category: Fiction » Children’s books » Historical / United States / 20th Century
+   2 Category: Fiction » Children’s books » Historical / United States / General
+   3 Category: Fiction » Children’s books » Holidays
+   3 Category: Fiction » Children’s books » Holidays & Celebrations / Christmas & Advent
+   2 Category: Fiction » Children’s books » Holidays & Celebrations / Halloween
+   3 Category: Fiction » Children’s books » Imagination & Play
+   3 Category: Fiction » Children’s books » Law & Crime
+   3 Category: Fiction » Children’s books » Legends, Myths, Fables / Arthurian
+   4 Category: Fiction » Children’s books » Legends, Myths, Fables / General
+   1 Category: Fiction » Children’s books » Legends, Myths, Fables / Greek & Roman
+   1 Category: Fiction » Children’s books » Legends, Myths, Fables / Norse
+   6 Category: Fiction » Children’s books » Legends, Myths, Fables / Other
+  10 Category: Fiction » Children’s books » Monsters
+   1 Category: Fiction » Children’s books » Nature & the Natural World / Environment
+  22 Category: Fiction » Children’s books » Paranormal
+   1 Category: Fiction » Children’s books » People & Places / Caribbean & Latin America
+   1 Category: Fiction » Children’s books » Performing Arts / Theater
+   1 Category: Fiction » Children’s books » Poetry
+  13 Category: Fiction » Children’s books » Readers / Chapter Books
+  11 Category: Fiction » Children’s books » Readers / Intermediate
+  13 Category: Fiction » Children’s books » Religious / Christian / Action & Adventure
+   1 Category: Fiction » Children’s books » Religious / Christian / Animals
+   1 Category: Fiction » Children’s books » Religious / Christian / Family
+   2 Category: Fiction » Children’s books » Religious / Christian / Fantasy
+   3 Category: Fiction » Children’s books » Religious / Christian / General
+   1 Category: Fiction » Children’s books » Religious / Christian / Humorous
+   1 Category: Fiction » Children’s books » Religious / Christian / Mysteries & Detective Stories
+   1 Category: Fiction » Children’s books » Religious / Christian / Relationships
+   1 Category: Fiction » Children’s books » Religious / Christian / Science Fiction
+   2 Category: Fiction » Children’s books » Religious / Christian / Social Issues
+   1 Category: Fiction » Children’s books » Religious / Christian / Values & Virtues
+   1 Category: Fiction » Children’s books » Royalty
+   1 Category: Fiction » Children’s books » Science & Technology
+   6 Category: Fiction » Children’s books » Short Stories
+   1 Category: Fiction » Children’s books » Social Issues / Adolescence
+   1 Category: Fiction » Children’s books » Social Issues / Bullying
+   2 Category: Fiction » Children’s books » Social Issues / Death & Dying
+   2 Category: Fiction » Children’s books » Social Issues / Friendship
+   1 Category: Fiction » Children’s books » Social Issues / New Experience
+   1 Category: Fiction » Children’s books » Social Issues / Peer Pressure
+   1 Category: Fiction » Children’s books » Social Issues / Values & Virtues
+   1 Category: Fiction » Children’s books » Special needs
+   2 Category: Fiction » Children’s books » Sports & Recreation / Baseball & Softball
+   1 Category: Fiction » Children’s books » Sports & Recreation / Equestrian
+   1 Category: Fiction » Children’s books » Sports & Recreation / General
+   4 Category: Fiction » Christian » Amish & Mennonite
+  21 Category: Fiction » Christian » Classical & allegory
+  57 Category: Fiction » Christian » Contemporary
+  90 Category: Fiction » Christian » Fantasy
+  38 Category: Fiction » Christian » Futuristic
+  41 Category: Fiction » Christian » General
+  36 Category: Fiction » Christian » Historical
+  21 Category: Fiction » Christian » Mystery & detective
+  91 Category: Fiction » Christian » Romance
+  17 Category: Fiction » Christian » Short stories
+  45 Category: Fiction » Christian » Suspense
+  13 Category: Fiction » Christian » Western
+  28 Category: Fiction » Classics
+ 145 Category: Fiction » Coming of age
+   2 Category: Fiction » Cultural & ethnic themes
+  14 Category: Fiction » Cultural & ethnic themes » Asian American
+  45 Category: Fiction » Cultural & ethnic themes » Cultural interest, general
+  12 Category: Fiction » Cultural & ethnic themes » Hispanic & Latino
+   3 Category: Fiction » Cultural & ethnic themes » Jewish
+  12 Category: Fiction » Educational
+  64 Category: Fiction » Fairy tales
+   2 Category: Fiction » Fantasy
+ 296 Category: Fiction » Fantasy » Contemporary
+ 126 Category: Fiction » Fantasy » Dark
+ 681 Category: Fiction » Fantasy » Epic
+ 546 Category: Fiction » Fantasy » General
+ 143 Category: Fiction » Fantasy » Historical
+ 574 Category: Fiction » Fantasy » Paranormal
+ 175 Category: Fiction » Fantasy » Short stories
+ 306 Category: Fiction » Fantasy » Urban
+   1 Category: Fiction » Gay & lesbian fiction
+ 190 Category: Fiction » Gay & lesbian fiction » Gay
+  50 Category: Fiction » Gay & lesbian fiction » General
+  59 Category: Fiction » Gay & lesbian fiction » Lesbian
+   1 Category: Fiction » Graphic novels & comics » Contemporary women
+   2 Category: Fiction » Graphic novels & comics » Crime & mystery
+   3 Category: Fiction » Graphic novels & comics » Fantasy
+   4 Category: Fiction » Graphic novels & comics » General
+   3 Category: Fiction » Graphic novels & comics » Graphic novel
+   1 Category: Fiction » Graphic novels & comics » Literary
+  14 Category: Fiction » Graphic novels & comics » Superheroes
+  34 Category: Fiction » Historical » Ancient
+  15 Category: Fiction » Historical » Australia & New Zealand
+  10 Category: Fiction » Historical » Canada
+   9 Category: Fiction » Historical » Classical Greece & Rome
+   4 Category: Fiction » Historical » Colonial America
+  77 Category: Fiction » Historical » General
+  31 Category: Fiction » Historical » Medieval
+  20 Category: Fiction » Historical » Paranormal
+  18 Category: Fiction » Historical » Regency
+   6 Category: Fiction » Historical » Renaissance
+  74 Category: Fiction » Historical » USA
+  43 Category: Fiction » Historical » United Kingdom
+  20 Category: Fiction » Historical » Victorian
+  30 Category: Fiction » Historical » Western & American frontier
+   1 Category: Fiction » Holiday
+  10 Category: Fiction » Holiday » Adventure
+  36 Category: Fiction » Holiday » Christmas
+   8 Category: Fiction » Holiday » Family
+   3 Category: Fiction » Holiday » Halloween
+  13 Category: Fiction » Holiday » Humorous
+  33 Category: Fiction » Horror » Crime
+ 248 Category: Fiction » Horror » General
+  73 Category: Fiction » Horror » Ghost
+  87 Category: Fiction » Horror » Occult
+ 155 Category: Fiction » Horror » Undead
+  88 Category: Fiction » Horror » Weird fiction
+   3 Category: Fiction » Humor & comedy
+ 114 Category: Fiction » Humor & comedy » Black comedy
+ 363 Category: Fiction » Humor & comedy » General
+  38 Category: Fiction » Humor & comedy » Parody
+ 117 Category: Fiction » Humor & comedy » Satire
+ 144 Category: Fiction » Inspirational
+   1 Category: Fiction » Literary collections » African
+   2 Category: Fiction » Literary collections » American / African American
+  25 Category: Fiction » Literary collections » American / General
+   1 Category: Fiction » Literary collections » Ancient & Classical
+   1 Category: Fiction » Literary collections » Asian / General
+  13 Category: Fiction » Literary collections » Australian & Oceanian
+   5 Category: Fiction » Literary collections » Canadian
+   1 Category: Fiction » Literary collections » Caribbean & Latin American
+   2 Category: Fiction » Literary collections » Diaries & Journals
+  10 Category: Fiction » Literary collections » European / English, Irish, Scottish, Welsh
+   1 Category: Fiction » Literary collections » European / German
+   2 Category: Fiction » Literary collections » European / Italian
+   5 Category: Fiction » Literary collections » European / Scandinavian
+   1 Category: Fiction » Literary collections » European / Spanish & Portuguese
+   1 Category: Fiction » Literary collections » Female authors
+   1 Category: Fiction » Literary collections » Native American
+   3 Category: Fiction » Literature
+ 413 Category: Fiction » Literature » Literary
+  52 Category: Fiction » Literature » Plays & Screenplays
+  28 Category: Fiction » Mashups
+  68 Category: Fiction » Mystery & detective » Amateur sleuth
+  56 Category: Fiction » Mystery & detective » Cozy
+ 330 Category: Fiction » Mystery & detective » General
+  74 Category: Fiction » Mystery & detective » Hard-Boiled
+  59 Category: Fiction » Mystery & detective » Historical
+  28 Category: Fiction » Mystery & detective » International crime
+  67 Category: Fiction » Mystery & detective » Police Procedural
+  35 Category: Fiction » Mystery & detective » Short Stories
+  25 Category: Fiction » Mystery & detective » Traditional British
+ 147 Category: Fiction » Mystery & detective » Women Sleuths
+   1 Category: Fiction » Plays & Screenplays
+   5 Category: Fiction » Plays & Screenplays » African
+ 111 Category: Fiction » Plays & Screenplays » American
+   3 Category: Fiction » Plays & Screenplays » Anthologies
+   7 Category: Fiction » Plays & Screenplays » Asian
+  29 Category: Fiction » Plays & Screenplays » European
+   2 Category: Fiction » Plays & Screenplays » Middle Eastern
+   2 Category: Fiction » Plays & Screenplays » Russian
+   1 Category: Fiction » Poetry » African Poetry
+   8 Category: Fiction » Poetry » American poetry » General
+   1 Category: Fiction » Poetry » Asian poetry » Japanese
+   1 Category: Fiction » Poetry » Australian & Oceanian
+   2 Category: Fiction » Poetry » Biography
+   3 Category: Fiction » Poetry » Canadian Poetry
+  24 Category: Fiction » Poetry » Contemporary Poetry
+   1 Category: Fiction » Poetry » Eastern European Poetry
+   9 Category: Fiction » Poetry » Epic
+   8 Category: Fiction » Poetry » Female authors
+   8 Category: Fiction » Poetry » Gay & lesbian
+   1 Category: Fiction » Poetry » Russian & Former Soviet Union
+   1 Category: Fiction » Poetry » South Asian & Indian poetry
+  52 Category: Fiction » Poetry » Spiritual
+   4 Category: Fiction » Poetry » Themes & motifs » Death
+  13 Category: Fiction » Poetry » Themes & motifs » General
+   3 Category: Fiction » Poetry » Themes & motifs » Love
+   1 Category: Fiction » Poetry » Themes & motifs » Nature
+   3 Category: Fiction » Poetry » U.K. Poetry
+  40 Category: Fiction » Religious
+   2 Category: Fiction » Romance
+ 152 Category: Fiction » Romance » Action/adventure
+ 174 Category: Fiction » Romance » Adult
+  61 Category: Fiction » Romance » Clean & wholesome
+1001 Category: Fiction » Romance » Contemporary
+ 139 Category: Fiction » Romance » Erotic
+ 275 Category: Fiction » Romance » Fantasy
+ 292 Category: Fiction » Romance » General
+  26 Category: Fiction » Romance » Gothic
+ 227 Category: Fiction » Romance » Historical
+ 163 Category: Fiction » Romance » New adult
+ 600 Category: Fiction » Romance » Paranormal
+  56 Category: Fiction » Romance » Regency
+ 100 Category: Fiction » Romance » Sci-fi
+  80 Category: Fiction » Romance » Short stories
+ 329 Category: Fiction » Romance » Suspense
+  44 Category: Fiction » Romance » Time travel
+  96 Category: Fiction » Romance » Western
+ 677 Category: Fiction » Science fiction » Adventure
+ 252 Category: Fiction » Science fiction » Apocalyptic
+  45 Category: Fiction » Science fiction » Cyberpunk
+ 484 Category: Fiction » Science fiction » General
+  71 Category: Fiction » Science fiction » Hard sci-fi
+  73 Category: Fiction » Science fiction » High tech
+ 122 Category: Fiction » Science fiction » Military
+ 158 Category: Fiction » Science fiction » Short stories
+ 261 Category: Fiction » Science fiction » Space opera
+  47 Category: Fiction » Science fiction » Steampunk & retropunk
+ 221 Category: Fiction » Science fiction » Utopias & dystopias
+  32 Category: Fiction » Sports
+  11 Category: Fiction » Themes & motifs » Crime
+  14 Category: Fiction » Themes & motifs » Family sagas
+   2 Category: Fiction » Themes & motifs » Legal
+   1 Category: Fiction » Themes & motifs » Media tie-in
+   2 Category: Fiction » Themes & motifs » Medical
+  23 Category: Fiction » Themes & motifs » Political
+  27 Category: Fiction » Themes & motifs » Psychological
+   5 Category: Fiction » Themes & motifs » Religious
+  24 Category: Fiction » Themes & motifs » Spiritual & metaphysical
+   5 Category: Fiction » Themes & motifs » Technological
+   4 Category: Fiction » Thriller & suspense
+ 388 Category: Fiction » Thriller & suspense » Action & suspense
+  11 Category: Fiction » Thriller & suspense » Courtroom
+ 276 Category: Fiction » Thriller & suspense » Crime thriller
+ 272 Category: Fiction » Thriller & suspense » General
+ 200 Category: Fiction » Thriller & suspense » Psychological thriller
+ 101 Category: Fiction » Thriller & suspense » Spies & espionage
+  78 Category: Fiction » Thriller & suspense » Supernatural
+  17 Category: Fiction » Transgressional fiction
+  45 Category: Fiction » Urban
+  67 Category: Fiction » Visionary & metaphysical
+  26 Category: Fiction » Western
+   1 Category: Fiction » Women's fiction
+ 125 Category: Fiction » Women's fiction » Chick lit
+  15 Category: Fiction » Women's fiction » Feminist
+ 235 Category: Fiction » Women's fiction » General
+   4 Category: Fiction » Young adult or teen
+ 233 Category: Fiction » Young adult or teen » Adventure
+  15 Category: Fiction » Young adult or teen » Anthology
+  29 Category: Fiction » Young adult or teen » Chick Lit
+  78 Category: Fiction » Young adult or teen » Drama
+  36 Category: Fiction » Young adult or teen » Fairy Tales
+  30 Category: Fiction » Young adult or teen » Family
+ 526 Category: Fiction » Young adult or teen » Fantasy
+  13 Category: Fiction » Young adult or teen » Gay & Lesbian
+  25 Category: Fiction » Young adult or teen » Historical
+  58 Category: Fiction » Young adult or teen » Horror
+  56 Category: Fiction » Young adult or teen » Humor
+  18 Category: Fiction » Young adult or teen » Literary
+  48 Category: Fiction » Young adult or teen » Mystery & Detective
+ 102 Category: Fiction » Young adult or teen » Paranormal
+  18 Category: Fiction » Young adult or teen » Religion
+ 331 Category: Fiction » Young adult or teen » Romance
+ 389 Category: Fiction » Young adult or teen » Sci-Fi & fantasy
+  49 Category: Fiction » Young adult or teen » Social Issues
+  69 Category: Fiction » Young adult or teen » Thriller & Suspense
+  27 Category: Fiction » Young adult or teen » Urban
+   1 Category: Fiction » Young adult or teen » War
+   1 Category: Fiction » Young adult or teen » Western
+   2 Category: Nonfiction
+   2 Category: Nonfiction » Antiques & Collectibles » Americana
+   1 Category: Nonfiction » Art, Architecture, Photography » Architecture » Buildings » Religious
+   1 Category: Nonfiction » Art, Architecture, Photography » Architecture » Sustainability & green design
+   2 Category: Nonfiction » Art, Architecture, Photography » Architecture » Urban & land use planning
+   2 Category: Nonfiction » Art, Architecture, Photography » Art - how to
+   1 Category: Nonfiction » Art, Architecture, Photography » Art history » Modern (late 19th Century–1945)
+   3 Category: Nonfiction » Art, Architecture, Photography » Artists
+   1 Category: Nonfiction » Art, Architecture, Photography » Fine art » Annuals
+   1 Category: Nonfiction » Art, Architecture, Photography » Fine art » Collections, catalogs, exhibitions / permanent collections
+   1 Category: Nonfiction » Art, Architecture, Photography » Fine art » Conceptual
+   1 Category: Nonfiction » Art, Architecture, Photography » Fine art » Individual artists / artists’ books
+   1 Category: Nonfiction » Art, Architecture, Photography » Fine art » Museum studies
+   1 Category: Nonfiction » Art, Architecture, Photography » Performing arts » Acting & auditioning
+   1 Category: Nonfiction » Art, Architecture, Photography » Performing arts » Dance / classical & ballet
+   2 Category: Nonfiction » Art, Architecture, Photography » Performing arts » Film & video / general
+   1 Category: Nonfiction » Art, Architecture, Photography » Performing arts » Film & video / guides & reviews
+   6 Category: Nonfiction » Biography » Adventurers & explorers
+ 149 Category: Nonfiction » Biography » Autobiographies & Memoirs
+   4 Category: Nonfiction » Biography » Biographical anthologies
+   1 Category: Nonfiction » Biography » Business biography
+  19 Category: Nonfiction » Biography » Celebrity biography
+   8 Category: Nonfiction » Biography » Criminals & outlaws
+   3 Category: Nonfiction » Biography » Cultural heritage
+   1 Category: Nonfiction » Biography » Editors, journalists, & publishers
+   3 Category: Nonfiction » Biography » Environmentalists & naturalists
+   1 Category: Nonfiction » Biography » Gay & lesbian
+  21 Category: Nonfiction » Biography » Historical biography
+   4 Category: Nonfiction » Biography » Literary biography
+   5 Category: Nonfiction » Biography » Military biography
+  11 Category: Nonfiction » Biography » Other biographies
+  64 Category: Nonfiction » Biography » Personal memoir
+   3 Category: Nonfiction » Biography » Philosopher biography
+   1 Category: Nonfiction » Biography » Physicians & medical professionals
+   2 Category: Nonfiction » Biography » Political biography
+   1 Category: Nonfiction » Biography » Presidents & heads of state
+  35 Category: Nonfiction » Biography » Religious biography
+   1 Category: Nonfiction » Biography » Scientists, Inventors
+   1 Category: Nonfiction » Biography » Social scientists & psychologists
+   5 Category: Nonfiction » Biography » Sports biography
+   2 Category: Nonfiction » Biography » Teachers & educators
+  18 Category: Nonfiction » Biography » Woman biographies
+   2 Category: Nonfiction » Business & Economics » Accounting
+   1 Category: Nonfiction » Business & Economics » Accounting / managerial
+   1 Category: Nonfiction » Business & Economics » Accounting / standards (GAAP, IFRS, etc.)
+   2 Category: Nonfiction » Business & Economics » Advertising
+   2 Category: Nonfiction » Business & Economics » Banks & banking
+   1 Category: Nonfiction » Business & Economics » Budgeting
+   1 Category: Nonfiction » Business & Economics » Business Law
+   3 Category: Nonfiction » Business & Economics » Business administration
+   1 Category: Nonfiction » Business & Economics » Business biography
+   1 Category: Nonfiction » Business & Economics » Business communication / general
+   1 Category: Nonfiction » Business & Economics » Business ethics
+   1 Category: Nonfiction » Business & Economics » Business finance
+   1 Category: Nonfiction » Business & Economics » Careers
+   1 Category: Nonfiction » Business & Economics » Careers / job hunting
+   2 Category: Nonfiction » Business & Economics » Commerce
+   1 Category: Nonfiction » Business & Economics » Consulting
+   1 Category: Nonfiction » Business & Economics » Corporate & business history
+   1 Category: Nonfiction » Business & Economics » Corporate governance
+   2 Category: Nonfiction » Business & Economics » Customer relations
+   1 Category: Nonfiction » Business & Economics » Decision-making & problem solving
+   1 Category: Nonfiction » Business & Economics » Development / business development
+   5 Category: Nonfiction » Business & Economics » Development / economic development
+   2 Category: Nonfiction » Business & Economics » Development / general
+   3 Category: Nonfiction » Business & Economics » Development / sustainable development
+   1 Category: Nonfiction » Business & Economics » E-commerce / auctions & small business
+   3 Category: Nonfiction » Business & Economics » E-commerce / general
+   6 Category: Nonfiction » Business & Economics » E-commerce / internet marketing
+   1 Category: Nonfiction » Business & Economics » Economic conditions
+   4 Category: Nonfiction » Business & Economics » Economic history
+  13 Category: Nonfiction » Business & Economics » Economics
+   3 Category: Nonfiction » Business & Economics » Economics / comparative
+   1 Category: Nonfiction » Business & Economics » Economics / macroeconomics
+   6 Category: Nonfiction » Business & Economics » Education
+   2 Category: Nonfiction » Business & Economics » Environmental economics
+   2 Category: Nonfiction » Business & Economics » Exports & imports
+   1 Category: Nonfiction » Business & Economics » Forecasting
+   2 Category: Nonfiction » Business & Economics » Franchises
+   5 Category: Nonfiction » Business & Economics » Government & business
+   7 Category: Nonfiction » Business & Economics » Home-based businesses
+   1 Category: Nonfiction » Business & Economics » Human resource management
+   1 Category: Nonfiction » Business & Economics » Industrial management
+   1 Category: Nonfiction » Business & Economics » Industries / computer industry
+   1 Category: Nonfiction » Business & Economics » Industries / general
+   1 Category: Nonfiction » Business & Economics » Industries / manufacturing
+   1 Category: Nonfiction » Business & Economics » Insurance / life
+   1 Category: Nonfiction » Business & Economics » International / economics
+   1 Category: Nonfiction » Business & Economics » Investments & securities / options
+   2 Category: Nonfiction » Business & Economics » Investments & securities / real estate
+   1 Category: Nonfiction » Business & Economics » Investments & securities / stocks
+   1 Category: Nonfiction » Business & Economics » Labor
+   5 Category: Nonfiction » Business & Economics » Management
+  11 Category: Nonfiction » Business & Economics » Management & human resources
+  19 Category: Nonfiction » Business & Economics » Marketing
+   2 Category: Nonfiction » Business & Economics » Marketing / direct
+   1 Category: Nonfiction » Business & Economics » Marketing / multilevel
+   1 Category: Nonfiction » Business & Economics » Mergers & acquisitions
+   5 Category: Nonfiction » Business & Economics » Money & monetary policy
+   1 Category: Nonfiction » Business & Economics » Motivational
+   1 Category: Nonfiction » Business & Economics » New business enterprises
+   2 Category: Nonfiction » Business & Economics » Non-profit business
+  21 Category: Nonfiction » Business & Economics » Personal finance
+   2 Category: Nonfiction » Business & Economics » Personal finance / budgeting
+   3 Category: Nonfiction » Business & Economics » Personal finance / investing
+   9 Category: Nonfiction » Business & Economics » Personal finance / money management
+   5 Category: Nonfiction » Business & Economics » Personal finance / retirement planning
+   2 Category: Nonfiction » Business & Economics » Personal finance / taxation
+   4 Category: Nonfiction » Business & Economics » Personal success
+   4 Category: Nonfiction » Business & Economics » Project management
+   1 Category: Nonfiction » Business & Economics » Public finance
+   1 Category: Nonfiction » Business & Economics » Public relations
+   4 Category: Nonfiction » Business & Economics » Publishing business
+   1 Category: Nonfiction » Business & Economics » Purchasing & buying
+   7 Category: Nonfiction » Business & Economics » Real estate
+   4 Category: Nonfiction » Business & Economics » Real estate / buying & selling homes
+   1 Category: Nonfiction » Business & Economics » Real estate / mortgages
+   1 Category: Nonfiction » Business & Economics » Reference
+   1 Category: Nonfiction » Business & Economics » Research & development
+   3 Category: Nonfiction » Business & Economics » Sales
+   4 Category: Nonfiction » Business & Economics » Sales & selling / management
+  23 Category: Nonfiction » Business & Economics » Small business & entrepreneurship
+   3 Category: Nonfiction » Business & Economics » Starting up
+   3 Category: Nonfiction » Business & Economics » Strategic planning
+   3 Category: Nonfiction » Business & Economics » Tax planning
+   1 Category: Nonfiction » Business & Economics » Taxation / corporate
+   2 Category: Nonfiction » Business & Economics » Taxation / small business
+   1 Category: Nonfiction » Business & Economics » Workplace culture
+   2 Category: Nonfiction » Career Guides » Arts
+   4 Category: Nonfiction » Career Guides » Business Management
+   2 Category: Nonfiction » Career Guides » Computer Science
+   2 Category: Nonfiction » Career Guides » Education
+   1 Category: Nonfiction » Career Guides » Entertainment
+   1 Category: Nonfiction » Career Guides » Legal
+   2 Category: Nonfiction » Career Guides » Media
+   1 Category: Nonfiction » Career Guides » Personal Care & Service
+   3 Category: Nonfiction » Career Guides » Sales & Marketing
+   1 Category: Nonfiction » Career Guides » Transportation
+   1 Category: Nonfiction » Children's Books » Activity Books
+   1 Category: Nonfiction » Children's Books » Adventure & Adventurers
+   1 Category: Nonfiction » Children's Books » Animals
+   3 Category: Nonfiction » Children's Books » Animals / Animal Welfare
+   1 Category: Nonfiction » Children's Books » Family / Orphans & Foster Homes
+   1 Category: Nonfiction » Children's Books » Games & Activities / Puzzles
+   1 Category: Nonfiction » Children's Books » Games & Activities / Video & Electronic Games
+   1 Category: Nonfiction » Children's Books » Girls & Women
+   1 Category: Nonfiction » Children's Books » Growing Up
+   1 Category: Nonfiction » Children's Books » Health & Daily Living / Daily Activities
+   1 Category: Nonfiction » Children's Books » History
+   1 Category: Nonfiction » Children's Books » Performing Arts / Film
+   1 Category: Nonfiction » Children's Books » Performing Arts / Theater
+   1 Category: Nonfiction » Children's Books » Religious / Christian / Biography & Autobiography
+   1 Category: Nonfiction » Children's Books » Social Issues / Adolescence
+   1 Category: Nonfiction » Children's Books » Social Issues / Bullying
+   1 Category: Nonfiction » Children's Books » Social Issues / Dating & Sex
+   1 Category: Nonfiction » Children's Books » Social Issues / General
+   1 Category: Nonfiction » Children's Books » Social Issues / Physical & Emotional Abuse
+   1 Category: Nonfiction » Children's Books » Writing
+   4 Category: Nonfiction » Comics (nonfictional)
+   1 Category: Nonfiction » Computers & Internet » Biography
+   1 Category: Nonfiction » Computers & Internet » Blogging
+   4 Category: Nonfiction » Computers & Internet » Computer literacy
+   6 Category: Nonfiction » Computers & Internet » Computer science
+   1 Category: Nonfiction » Computers & Internet » Data processing
+   1 Category: Nonfiction » Computers & Internet » Data storage
+   1 Category: Nonfiction » Computers & Internet » Database management / data mining
+   1 Category: Nonfiction » Computers & Internet » Desktop applications / spreadsheets
+   2 Category: Nonfiction » Computers & Internet » Desktop applications / word processing
+   1 Category: Nonfiction » Computers & Internet » Digital media / general
+   3 Category: Nonfiction » Computers & Internet » Digital publishing
+   1 Category: Nonfiction » Computers & Internet » Electronic commerce
+   2 Category: Nonfiction » Computers & Internet » Enterprise IT management
+   3 Category: Nonfiction » Computers & Internet » Games
+   1 Category: Nonfiction » Computers & Internet » Hardware
+   1 Category: Nonfiction » Computers & Internet » History
+   4 Category: Nonfiction » Computers & Internet » Information technology
+   1 Category: Nonfiction » Computers & Internet » Information theory
+   1 Category: Nonfiction » Computers & Internet » Interactive & multimedia
+   7 Category: Nonfiction » Computers & Internet » Internet
+   1 Category: Nonfiction » Computers & Internet » Internet / application development
+   1 Category: Nonfiction » Computers & Internet » Internet / security
+   1 Category: Nonfiction » Computers & Internet » Networking / security
+   6 Category: Nonfiction » Computers & Internet » Operating systems » Operating systems / Linux
+   1 Category: Nonfiction » Computers & Internet » Operating systems » Operating systems / UNIX
+   1 Category: Nonfiction » Computers & Internet » Podcasting
+   2 Category: Nonfiction » Computers & Internet » Programming
+   1 Category: Nonfiction » Computers & Internet » Programming » Ada
+   1 Category: Nonfiction » Computers & Internet » Programming » Apple programming
+   1 Category: Nonfiction » Computers & Internet » Programming » COBOL
+   1 Category: Nonfiction » Computers & Internet » Programming » Microsoft programming
+   2 Category: Nonfiction » Computers & Internet » Programming » Programming / object oriented
+   1 Category: Nonfiction » Computers & Internet » Programming » Programming languages / General
+   1 Category: Nonfiction » Computers & Internet » Programming » Python
+   3 Category: Nonfiction » Computers & Internet » Security
+   5 Category: Nonfiction » Computers & Internet » Social aspects / general
+   1 Category: Nonfiction » Computers & Internet » Social aspects / human-computer interaction
+   5 Category: Nonfiction » Computers & Internet » Social networking
+   4 Category: Nonfiction » Computers & Internet » Software Development & Engineering / Tools
+   2 Category: Nonfiction » Computers & Internet » Software development & engineering / general
+   3 Category: Nonfiction » Computers & Internet » Software development & engineering / project management
+   2 Category: Nonfiction » Computers & Internet » Systems architecture / distributed systems & computing
+   1 Category: Nonfiction » Computers & Internet » Utilities
+   2 Category: Nonfiction » Computers & Internet » Web / general
+   3 Category: Nonfiction » Computers & Internet » Web / site design
+   4 Category: Nonfiction » Computers & Internet » ebook readers
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » American / General
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » American / Southern States
+   2 Category: Nonfiction » Cooking, Food, Wine, Spirits » Baking
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Beer
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Beverages - Wine & Spirits
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Cajun & Creole
+   2 Category: Nonfiction » Cooking, Food, Wine, Spirits » Courses & dishes / general
+   2 Category: Nonfiction » Cooking, Food, Wine, Spirits » Desserts
+   2 Category: Nonfiction » Cooking, Food, Wine, Spirits » Diet cooking
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Entertaining
+   2 Category: Nonfiction » Cooking, Food, Wine, Spirits » General cookbooks
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Health & Healing / General
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Health & Healing / Weight Control
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Health & healing / allergy
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Health & healing / gluten-free
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Indian
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Italian
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Methods / Barbecue & Grilling
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Methods / General
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Methods / Professional
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Methods / Quick & Easy
+   1 Category: Nonfiction » Cooking, Food, Wine, Spirits » Mexican
+   2 Category: Nonfiction » Cooking, Food, Wine, Spirits » Vegetarian & Vegan
+   3 Category: Nonfiction » Education & Study Guides » Administration / elementary & secondary
+   4 Category: Nonfiction » Education & Study Guides » Adult & continuing education
+   3 Category: Nonfiction » Education & Study Guides » Behavioral management
+   1 Category: Nonfiction » Education & Study Guides » Careers in education
+   1 Category: Nonfiction » Education & Study Guides » Classroom management
+   2 Category: Nonfiction » Education & Study Guides » Collaborative & team teaching
+   3 Category: Nonfiction » Education & Study Guides » College Guides
+   1 Category: Nonfiction » Education & Study Guides » College prep checklists
+   3 Category: Nonfiction » Education & Study Guides » Computers & technology
+   1 Category: Nonfiction » Education & Study Guides » Counseling / academic development
+   1 Category: Nonfiction » Education & Study Guides » Counseling / career development
+   1 Category: Nonfiction » Education & Study Guides » Curricula
+   1 Category: Nonfiction » Education & Study Guides » Distance & online education
+   1 Category: Nonfiction » Education & Study Guides » Educational policy & reform / charter schools
+   2 Category: Nonfiction » Education & Study Guides » Educational policy & reform / general
+   1 Category: Nonfiction » Education & Study Guides » Educational policy & reform / school safety
+   2 Category: Nonfiction » Education & Study Guides » Elementary
+   5 Category: Nonfiction » Education & Study Guides » Essays
+   2 Category: Nonfiction » Education & Study Guides » Finance
+   1 Category: Nonfiction » Education & Study Guides » Getting into college
+   1 Category: Nonfiction » Education & Study Guides » Higher
+   2 Category: Nonfiction » Education & Study Guides » History
+   2 Category: Nonfiction » Education & Study Guides » History of education
+   1 Category: Nonfiction » Education & Study Guides » Inclusive education
+   1 Category: Nonfiction » Education & Study Guides » Language experience approach
+   1 Category: Nonfiction » Education & Study Guides » Leadership
+   1 Category: Nonfiction » Education & Study Guides » Literacy
+   1 Category: Nonfiction » Education & Study Guides » Literacy » Alphabets & writing systems
+   3 Category: Nonfiction » Education & Study Guides » Literacy » Composition & creative writing
+   1 Category: Nonfiction » Education & Study Guides » Literacy » General
+   2 Category: Nonfiction » Education & Study Guides » Multicultural education
+   2 Category: Nonfiction » Education & Study Guides » Non-formal education
+   3 Category: Nonfiction » Education & Study Guides » Organizations & institutions
+   3 Category: Nonfiction » Education & Study Guides » Philosophy & social aspects
+   5 Category: Nonfiction » Education & Study Guides » Professional development
+   2 Category: Nonfiction » Education & Study Guides » Reference
+   8 Category: Nonfiction » Education & Study Guides » Research
+   1 Category: Nonfiction » Education & Study Guides » Special education / general
+   1 Category: Nonfiction » Education & Study Guides » Special education / social disabilities
+   1 Category: Nonfiction » Education & Study Guides » Student life
+   1 Category: Nonfiction » Education & Study Guides » Student life & student affairs
+   1 Category: Nonfiction » Education & Study Guides » Study guides - AP exam
+   1 Category: Nonfiction » Education & Study Guides » Study guides - Economics
+   2 Category: Nonfiction » Education & Study Guides » Study guides - Education
+   2 Category: Nonfiction » Education & Study Guides » Study guides - English (insert language book was written in)
+   1 Category: Nonfiction » Education & Study Guides » Study guides - Foreign Languages
+  25 Category: Nonfiction » Education & Study Guides » Study guides - Literature
+   2 Category: Nonfiction » Education & Study Guides » Study guides - Mathematics
+   1 Category: Nonfiction » Education & Study Guides » Study guides - Medicine
+   1 Category: Nonfiction » Education & Study Guides » Study guides - Religion
+   1 Category: Nonfiction » Education & Study Guides » Study guides - Sciences
+   1 Category: Nonfiction » Education & Study Guides » Study guides - Social science
+   1 Category: Nonfiction » Education & Study Guides » Study guides - Visual & Performing Arts
+   1 Category: Nonfiction » Education & Study Guides » Study guides -- Armed Forces
+   1 Category: Nonfiction » Education & Study Guides » Study guides -- General
+   2 Category: Nonfiction » Education & Study Guides » Study skills
+  11 Category: Nonfiction » Education & Study Guides » Teaching
+   1 Category: Nonfiction » Education & Study Guides » Teaching methods & materials / arts & humanities
+   1 Category: Nonfiction » Education & Study Guides » Teaching methods & materials / language arts
+   3 Category: Nonfiction » Education & Study Guides » Teaching methods & materials / science & technology
+   2 Category: Nonfiction » Education & Study Guides » Test preparation
+   1 Category: Nonfiction » Education & Study Guides » Vocational trades
+   1 Category: Nonfiction » Engineering, trades, & technology » Aeronautics & Astronautics
+   1 Category: Nonfiction » Engineering, trades, & technology » Automation
+   1 Category: Nonfiction » Engineering, trades, & technology » Construction / General
+   1 Category: Nonfiction » Engineering, trades, & technology » Electronics / Digital
+   1 Category: Nonfiction » Engineering, trades, & technology » Engineering (General)
+   1 Category: Nonfiction » Engineering, trades, & technology » Environmental / General
+   1 Category: Nonfiction » Engineering, trades, & technology » Environmental / Water Supply
+   1 Category: Nonfiction » Engineering, trades, & technology » Technical Writing
+   3 Category: Nonfiction » Engineering, trades, & technology » Telecommunications
+   3 Category: Nonfiction » Entertainment » Astrology
+   7 Category: Nonfiction » Entertainment » Biography
+   4 Category: Nonfiction » Entertainment » Celebrity culture
+   1 Category: Nonfiction » Entertainment » Computer gaming
+  10 Category: Nonfiction » Entertainment » Entertainment industry
+   3 Category: Nonfiction » Entertainment » Gambling
+   2 Category: Nonfiction » Entertainment » Games, puzzles, & brain twisters » Chess
+   7 Category: Nonfiction » Entertainment » Games, puzzles, & brain twisters » Fantasy Sports
+   1 Category: Nonfiction » Entertainment » Games, puzzles, & brain twisters » Gambling / Lotteries
+   6 Category: Nonfiction » Entertainment » Games, puzzles, & brain twisters » Logic & Brain Teasers
+   3 Category: Nonfiction » Entertainment » Games, puzzles, & brain twisters » Reference
+   1 Category: Nonfiction » Entertainment » Games, puzzles, & brain twisters » Role Playing & Fantasy
+  10 Category: Nonfiction » Entertainment » History & Criticism
+   5 Category: Nonfiction » Entertainment » Humor & satire
+   6 Category: Nonfiction » Entertainment » Humor & satire » Form / anecdotes & quotations
+  11 Category: Nonfiction » Entertainment » Humor & satire » Form / essays
+   4 Category: Nonfiction » Entertainment » Humor & satire » Form / jokes & riddles
+   2 Category: Nonfiction » Entertainment » Humor & satire » Form / parodies
+   1 Category: Nonfiction » Entertainment » Humor & satire » Form / trivia
+   4 Category: Nonfiction » Entertainment » Humor & satire » Topic / adult
+   3 Category: Nonfiction » Entertainment » Humor & satire » Topic / animals
+   3 Category: Nonfiction » Entertainment » Humor & satire » Topic / marriage & family
+   2 Category: Nonfiction » Entertainment » Humor & satire » Topic / relationships
+   2 Category: Nonfiction » Entertainment » Humor & satire » Topic / religion
+   3 Category: Nonfiction » Entertainment » Music
+   3 Category: Nonfiction » Entertainment » Outdoor activities
+   7 Category: Nonfiction » Entertainment » Television
+   3 Category: Nonfiction » Gay & Lesbian » Biographies
+   2 Category: Nonfiction » Gay & Lesbian » Coming out
+   1 Category: Nonfiction » Gay & Lesbian » Entertainment
+   1 Category: Nonfiction » Gay & Lesbian » Transgender
+   2 Category: Nonfiction » General reference » Bibliographies & indices
+   2 Category: Nonfiction » General reference » Curiosities & wonders
+   1 Category: Nonfiction » General reference » Questions & answers
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Acupressure & acupuncture
+  11 Category: Nonfiction » Health, wellbeing, & medicine » Aging well
+   9 Category: Nonfiction » Health, wellbeing, & medicine » Alternative medicine
+   7 Category: Nonfiction » Health, wellbeing, & medicine » Alternative therapies
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Aromatherapy
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Beauty & fashion
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Body art
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Body cleansing & detoxification
+  15 Category: Nonfiction » Health, wellbeing, & medicine » Cancer
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Children’s health
+  28 Category: Nonfiction » Health, wellbeing, & medicine » Dieting
+   9 Category: Nonfiction » Health, wellbeing, & medicine » Diseases
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Diseases / AIDS & HIV
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Diseases / Alzheimer’s & dementia
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Diseases / diabetes
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Diseases / gastrointestinal
+   3 Category: Nonfiction » Health, wellbeing, & medicine » Diseases / heart
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Diseases / musculoskeletal
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Diseases / nervous system (incl. brain)
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Diseases / respiratory
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Eating disorders
+   6 Category: Nonfiction » Health, wellbeing, & medicine » Exercise
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Family health
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Fertility & Conception
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Food-content guides
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Green living
+  11 Category: Nonfiction » Health, wellbeing, & medicine » Healing
+  12 Category: Nonfiction » Health, wellbeing, & medicine » Healthcare issues
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Hearing & speech
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Homeopathy
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Macrobiotics
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medical insurance
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Allied health services / emergency medical services
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Allied health services / physical therapy
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Cardiology
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Clinical medicine
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Dentistry / prosthodontics
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Education & training
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Emergency medicine
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Ethics
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Geriatrics
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Gynecology & obstetrics
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Health care delivery
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Holistic medicine
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Neuroscience
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Physical Medicine & Rehabilitation
+   4 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Research
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Medicine » Surgery / plastic & cosmetic
+  13 Category: Nonfiction » Health, wellbeing, & medicine » Mental health
+  21 Category: Nonfiction » Health, wellbeing, & medicine » Nutrition
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Nutritional supplements
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Physical impairments
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Reference
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Safety & first aid
+   1 Category: Nonfiction » Health, wellbeing, & medicine » Sleep & sleep disorders
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Women's health
+   2 Category: Nonfiction » Health, wellbeing, & medicine » Work-related health
+   3 Category: Nonfiction » Health, wellbeing, & medicine » Yoga
+  11 Category: Nonfiction » Health, wellbeing, & medicine » healthy living
+   2 Category: Nonfiction » Health, wellbeing, & medicine » herbal medications
+   1 Category: Nonfiction » History » Africa
+   3 Category: Nonfiction » History » Africa » Africa / South / Republic of South Africa
+  22 Category: Nonfiction » History » American
+   1 Category: Nonfiction » History » Ancient » Rome
+   1 Category: Nonfiction » History » Asian » Asia / Central Asia
+   1 Category: Nonfiction » History » Asian » Asia / Japan
+   1 Category: Nonfiction » History » Asian » China
+   5 Category: Nonfiction » History » Asian » India & southern Asia
+  10 Category: Nonfiction » History » Australia & New Zealand
+   3 Category: Nonfiction » History » Biography
+   9 Category: Nonfiction » History » Civilization
+   7 Category: Nonfiction » History » Contemporary political
+   4 Category: Nonfiction » History » Essays
+   2 Category: Nonfiction » History » European
+   1 Category: Nonfiction » History » European » Europe / Baltic States
+   1 Category: Nonfiction » History » European » Europe / Germany
+   7 Category: Nonfiction » History » European » Europe / Great Britain
+   2 Category: Nonfiction » History » European » Europe / Ireland
+  12 Category: Nonfiction » History » Family history
+   4 Category: Nonfiction » History » Genealogy
+   1 Category: Nonfiction » History » Historical Geography
+   8 Category: Nonfiction » History » History of things
+   1 Category: Nonfiction » History » Holocaust
+   3 Category: Nonfiction » History » Jewish
+   3 Category: Nonfiction » History » Middle East
+   1 Category: Nonfiction » History » Middle East / Egypt
+   2 Category: Nonfiction » History » Middle East / Israel
+   1 Category: Nonfiction » History » Military
+   2 Category: Nonfiction » History » Military » Military / Afghan War (2001-)
+   1 Category: Nonfiction » History » Military » Military / Nuclear Warfare
+   3 Category: Nonfiction » History » Military » Military / Special Forces
+   1 Category: Nonfiction » History » Military » Military / Strategy
+   3 Category: Nonfiction » History » Military » Military / Veterans
+   5 Category: Nonfiction » History » Military » Military / World War II
+   3 Category: Nonfiction » History » Modern / 19th Century
+   8 Category: Nonfiction » History » Modern / 20th Century
+   2 Category: Nonfiction » History » Modern / 21st Century
+   3 Category: Nonfiction » History » Modern / General
+   1 Category: Nonfiction » History » Natural history
+   2 Category: Nonfiction » History » North America » USA » General
+   2 Category: Nonfiction » History » North America » USA » United States / 20th Century
+   1 Category: Nonfiction » History » North America » USA » United States / Civil War Period (1850-1877)
+   1 Category: Nonfiction » History » North America » USA » United States / Revolutionary Period (1775-1800)
+   1 Category: Nonfiction » History » North America » USA » United States / State & Local / Midwest (IA, IL, IN, KS, MI, MN, MO, ND, NE, OH, SD, WI)
+   1 Category: Nonfiction » History » North America » USA » United States / State & Local / Pacific Northwest (OR, WA)
+   2 Category: Nonfiction » History » Reference
+   1 Category: Nonfiction » History » Revolutionary
+   2 Category: Nonfiction » History » Russian
+   6 Category: Nonfiction » History » Social history
+   1 Category: Nonfiction » History » Study & teaching
+  16 Category: Nonfiction » History » War
+   5 Category: Nonfiction » History » World
+   2 Category: Nonfiction » Home & Garden » Crafts & Hobbies » Needlework / knitting
+   2 Category: Nonfiction » Home & Garden » Do-it-yourself / general
+   1 Category: Nonfiction » Home & Garden » Gardening » Essays
+   3 Category: Nonfiction » Home & Garden » Gardening » Garden Design
+   3 Category: Nonfiction » Home & Garden » Green living
+   3 Category: Nonfiction » Home & Garden » Home buying
+   1 Category: Nonfiction » Home & Garden » Pets & livestock
+   1 Category: Nonfiction » Home & Garden » Pets & livestock » Cats » General
+   1 Category: Nonfiction » Home & Garden » Pets & livestock » Dogs » General
+   2 Category: Nonfiction » Home & Garden » Sustainable living
+   1 Category: Nonfiction » Inspiration
+   5 Category: Nonfiction » Inspiration » 12-step programs
+   2 Category: Nonfiction » Inspiration » Daily affirmations
+  37 Category: Nonfiction » Inspiration » General self-help
+   5 Category: Nonfiction » Inspiration » Meditation
+  97 Category: Nonfiction » Inspiration » Personal inspiration
+  83 Category: Nonfiction » Inspiration » Spiritual inspiration
+   2 Category: Nonfiction » Language Instruction » African Languages
+   1 Category: Nonfiction » Language Instruction » Ancient Languages
+   2 Category: Nonfiction » Language Instruction » Creole Languages
+   1 Category: Nonfiction » Language Instruction » Dutch
+   5 Category: Nonfiction » Language Instruction » English as a second language
+   1 Category: Nonfiction » Language Instruction » Finnish
+   2 Category: Nonfiction » Language Instruction » French
+   1 Category: Nonfiction » Language Instruction » German
+   2 Category: Nonfiction » Language Instruction » Italian
+   2 Category: Nonfiction » Language Instruction » Japanese
+   3 Category: Nonfiction » Language Instruction » Miscellaneous
+   1 Category: Nonfiction » Language Instruction » Multi-Language Dictionaries
+   1 Category: Nonfiction » Language Instruction » Oceanic & Australian Languages
+   2 Category: Nonfiction » Language Instruction » Polish
+   1 Category: Nonfiction » Language Instruction » Portuguese
+   1 Category: Nonfiction » Language Instruction » Russian
+   1 Category: Nonfiction » Language Instruction » Spanish
+   1 Category: Nonfiction » Language Instruction » Swedish
+   1 Category: Nonfiction » Language Instruction » Turkish
+   2 Category: Nonfiction » Law » Administrative Law & Regulatory Practice
+   1 Category: Nonfiction » Law » Bankruptcy & insolvency
+   1 Category: Nonfiction » Law » Child Advocacy
+   2 Category: Nonfiction » Law » Civil Law
+   1 Category: Nonfiction » Law » Civil Procedure
+   3 Category: Nonfiction » Law » Civil rights
+   1 Category: Nonfiction » Law » Common
+   1 Category: Nonfiction » Law » Computer & Internet
+   1 Category: Nonfiction » Law » Conflict of Laws
+   3 Category: Nonfiction » Law » Constitutional law
+   2 Category: Nonfiction » Law » Corporate
+   3 Category: Nonfiction » Law » Courts & trial practice
+   2 Category: Nonfiction » Law » Criminal » Criminal procedure
+   1 Category: Nonfiction » Law » Criminal » Sentencing
+   1 Category: Nonfiction » Law » Discrimination
+   1 Category: Nonfiction » Law » Environmental law
+   1 Category: Nonfiction » Law » Evidence
+   2 Category: Nonfiction » Law » Family law » General
+   1 Category: Nonfiction » Law » Forensic Science
+   5 Category: Nonfiction » Law » General law
+   1 Category: Nonfiction » Law » Government / Federal
+   1 Category: Nonfiction » Law » Government / General
+   2 Category: Nonfiction » Law » Intellectual property » General
+   1 Category: Nonfiction » Law » Intellectual property » Patent
+   1 Category: Nonfiction » Law » Intellectual property » Trademark
+   2 Category: Nonfiction » Law » Judicial Power
+   1 Category: Nonfiction » Law » Jurisprudence
+   1 Category: Nonfiction » Law » Land Use
+   2 Category: Nonfiction » Law » Legal theory
+   1 Category: Nonfiction » Law » Liability
+   1 Category: Nonfiction » Law » Media & the Law
+   1 Category: Nonfiction » Law » Military
+   2 Category: Nonfiction » Law » Personal Injury
+   1 Category: Nonfiction » Law » Practical Guides
+   2 Category: Nonfiction » Law » Tax law
+   1 Category: Nonfiction » Law » Trial Practice
+   1 Category: Nonfiction » Literary criticism » Asian / General
+   1 Category: Nonfiction » Literary criticism » Books & Reading
+   1 Category: Nonfiction » Literary criticism » European / English, Irish, Scottish, Welsh
+   1 Category: Nonfiction » Literary criticism » Poetry
+   1 Category: Nonfiction » Literary criticism » Reference
+   1 Category: Nonfiction » Literary criticism » Science Fiction & Fantasy
+   1 Category: Nonfiction » Music » Alternative
+   2 Category: Nonfiction » Music » Classical
+   1 Category: Nonfiction » Music » Electronica
+   1 Category: Nonfiction » Music » Folk
+   1 Category: Nonfiction » Music » Genres & styles / general
+   1 Category: Nonfiction » Music » History & Criticism
+   1 Category: Nonfiction » Music » Individual Composer & Musician
+   2 Category: Nonfiction » Music » Instruction & Study - General
+   1 Category: Nonfiction » Music » Instrument - Guitar
+   2 Category: Nonfiction » Music » Lyrics
+   1 Category: Nonfiction » Music » Music business
+   1 Category: Nonfiction » Music » Punk
+   1 Category: Nonfiction » Music » Rock music
+   1 Category: Nonfiction » Music » Sheet music & song books
+   1 Category: Nonfiction » Music » Voice
+  15 Category: Nonfiction » New Age » Aliens & UFOs
+   4 Category: Nonfiction » New Age » Angels & Fairies
+   3 Category: Nonfiction » New Age » Astrology
+   2 Category: Nonfiction » New Age » Dream interpretation
+   5 Category: Nonfiction » New Age » Fortune telling
+  17 Category: Nonfiction » New Age » Magic
+   6 Category: Nonfiction » New Age » Meditation
+   8 Category: Nonfiction » New Age » Mysticism
+   2 Category: Nonfiction » New Age » Near-death experiences
+  16 Category: Nonfiction » New Age » Numerology
+   2 Category: Nonfiction » New Age » Reincarnation
+  26 Category: Nonfiction » New Age » Spiritualism
+  34 Category: Nonfiction » New Age » Supernatural
+   1 Category: Nonfiction » New Age » Tarot
+   2 Category: Nonfiction » New Age » The Paranormal
+  10 Category: Nonfiction » New Age » Witchcraft & wicca
+   1 Category: Nonfiction » Parenting » Breast Feeding
+   5 Category: Nonfiction » Parenting » Childhood development
+   2 Category: Nonfiction » Parenting » Childhood psychology
+   2 Category: Nonfiction » Parenting » Divorce & children
+   3 Category: Nonfiction » Parenting » Family tragedy
+   1 Category: Nonfiction » Parenting » Math skills
+   1 Category: Nonfiction » Parenting » Pregnancy & Child Birth
+   1 Category: Nonfiction » Parenting » Psychiatric disorders
+   6 Category: Nonfiction » Parenting » Reference
+   4 Category: Nonfiction » Parenting » Teens
+   1 Category: Nonfiction » Philosophy » Aesthetics
+   7 Category: Nonfiction » Philosophy » American philosophy
+  13 Category: Nonfiction » Philosophy » Ancient philosophy
+   4 Category: Nonfiction » Philosophy » Asian philosophy
+   2 Category: Nonfiction » Philosophy » Biography
+   2 Category: Nonfiction » Philosophy » Buddhist
+  22 Category: Nonfiction » Philosophy » Contemporary philosophy
+   2 Category: Nonfiction » Philosophy » Criticism
+  19 Category: Nonfiction » Philosophy » Eastern
+   4 Category: Nonfiction » Philosophy » Epistemology
+  12 Category: Nonfiction » Philosophy » Essays
+  20 Category: Nonfiction » Philosophy » Ethics & moral philosophy
+   3 Category: Nonfiction » Philosophy » European philosophy
+   6 Category: Nonfiction » Philosophy » Free will & determinism
+  11 Category: Nonfiction » Philosophy » Good & evil
+   1 Category: Nonfiction » Philosophy » Hermeneutics
+   1 Category: Nonfiction » Philosophy » Hindu
+   2 Category: Nonfiction » Philosophy » Language
+   1 Category: Nonfiction » Philosophy » Linguistics
+   2 Category: Nonfiction » Philosophy » Logic
+  16 Category: Nonfiction » Philosophy » Metaphysics
+   1 Category: Nonfiction » Philosophy » Methodology
+  10 Category: Nonfiction » Philosophy » Mind & Body
+   1 Category: Nonfiction » Philosophy » Movements / General
+   4 Category: Nonfiction » Philosophy » Movements / existentialism
+   6 Category: Nonfiction » Philosophy » New age philosophy
+   9 Category: Nonfiction » Philosophy » Political
+  21 Category: Nonfiction » Philosophy » Religious philosophy
+   4 Category: Nonfiction » Philosophy » Social
+   1 Category: Nonfiction » Philosophy » Zen
+   1 Category: Nonfiction » Politics & Current Affairs
+  23 Category: Nonfiction » Politics & Current Affairs » Activism
+   5 Category: Nonfiction » Politics & Current Affairs » Arms control
+   2 Category: Nonfiction » Politics & Current Affairs » Biography
+   1 Category: Nonfiction » Politics & Current Affairs » City planning
+  24 Category: Nonfiction » Politics & Current Affairs » Civil & human rights
+   1 Category: Nonfiction » Politics & Current Affairs » Communism & socialism
+   3 Category: Nonfiction » Politics & Current Affairs » Congress
+  27 Category: Nonfiction » Politics & Current Affairs » Current affairs
+  17 Category: Nonfiction » Politics & Current Affairs » Democracy
+  17 Category: Nonfiction » Politics & Current Affairs » Economic policy
+  10 Category: Nonfiction » Politics & Current Affairs » Environmental politics
+  15 Category: Nonfiction » Politics & Current Affairs » Government
+   5 Category: Nonfiction » Politics & Current Affairs » History
+   7 Category: Nonfiction » Politics & Current Affairs » Islamic militancy
+   1 Category: Nonfiction » Politics & Current Affairs » Law enforcement
+  10 Category: Nonfiction » Politics & Current Affairs » Public affairs
+  10 Category: Nonfiction » Politics & Current Affairs » Social policy
+   1 Category: Nonfiction » Politics & Current Affairs » Social services
+  12 Category: Nonfiction » Politics & Current Affairs » Terrorism
+   9 Category: Nonfiction » Politics & Current Affairs » US Constitution
+   3 Category: Nonfiction » Politics & Current Affairs » White house
+   4 Category: Nonfiction » Politics & Current Affairs » World leaders
+  34 Category: Nonfiction » Politics & Current Affairs » World politics
+   1 Category: Nonfiction » Psychology
+   5 Category: Nonfiction » Psychology » Addiction
+   2 Category: Nonfiction » Psychology » Anxiety
+   3 Category: Nonfiction » Psychology » Applied psychology
+   1 Category: Nonfiction » Psychology » Child Abuse
+   3 Category: Nonfiction » Psychology » Clinical psychology
+   4 Category: Nonfiction » Psychology » Cognitive psychology
+   3 Category: Nonfiction » Psychology » Depression
+   1 Category: Nonfiction » Psychology » Developmental / general
+   1 Category: Nonfiction » Psychology » Developmental / lifespan development
+   2 Category: Nonfiction » Psychology » Emotions
+   1 Category: Nonfiction » Psychology » Experimental psychology
+   9 Category: Nonfiction » Psychology » General
+   2 Category: Nonfiction » Psychology » History
+   1 Category: Nonfiction » Psychology » Industrial & organizational psychology
+   1 Category: Nonfiction » Psychology » Interpersonal relations
+  13 Category: Nonfiction » Psychology » Mental health
+   4 Category: Nonfiction » Psychology » Mental illness
+   1 Category: Nonfiction » Psychology » Movements / behaviorism
+   1 Category: Nonfiction » Psychology » Movements / general
+   1 Category: Nonfiction » Psychology » Movements / humanism
+   1 Category: Nonfiction » Psychology » Movements / psychoanalysis
+   2 Category: Nonfiction » Psychology » Neuropsychology
+   3 Category: Nonfiction » Psychology » Personality
+   1 Category: Nonfiction » Psychology » Psychological disorders
+   4 Category: Nonfiction » Psychology » Psychopathology / schizophrenia
+   1 Category: Nonfiction » Psychology » Psychotherapy / counseling
+   1 Category: Nonfiction » Psychology » Research
+   3 Category: Nonfiction » Psychology » Sexual psychology
+   2 Category: Nonfiction » Psychology » Stress
+   2 Category: Nonfiction » Psychology » Suicide
+   6 Category: Nonfiction » Psychology » Theory
+  31 Category: Nonfiction » Publishing » Self-publishing
+   2 Category: Nonfiction » Reference » Almanac
+   4 Category: Nonfiction » Reference » Consumer guides
+   2 Category: Nonfiction » Reference » Dictionaries
+   2 Category: Nonfiction » Reference » Directories
+   1 Category: Nonfiction » Reference » Encyclopedias
+   2 Category: Nonfiction » Reference » Foreign language study
+   7 Category: Nonfiction » Reference » Handbooks & Manuals
+   9 Category: Nonfiction » Reference » Personal & Practical Guides
+  19 Category: Nonfiction » Reference » Publishing & books
+   3 Category: Nonfiction » Reference » Quotations
+   2 Category: Nonfiction » Reference » Screenwriting
+   9 Category: Nonfiction » Reference » Study guides
+   2 Category: Nonfiction » Reference » Words lists
+  17 Category: Nonfiction » Reference » Writing skills
+   3 Category: Nonfiction » Relationships & Family » Abuse / domestic partner abuse
+   2 Category: Nonfiction » Relationships & Family » Abuse / general
+   2 Category: Nonfiction » Relationships & Family » Adoption
+   1 Category: Nonfiction » Relationships & Family » Aging
+   1 Category: Nonfiction » Relationships & Family » Alternative family
+   2 Category: Nonfiction » Relationships & Family » Balancing work & family
+   3 Category: Nonfiction » Relationships & Family » Child abuse
+   2 Category: Nonfiction » Relationships & Family » Conflict resolution
+  19 Category: Nonfiction » Relationships & Family » Dating
+   5 Category: Nonfiction » Relationships & Family » Divorce
+  14 Category: Nonfiction » Relationships & Family » Dysfunctional relationships
+   4 Category: Nonfiction » Relationships & Family » Education
+   6 Category: Nonfiction » Relationships & Family » Emotions
+   2 Category: Nonfiction » Relationships & Family » Ethics & morals
+   2 Category: Nonfiction » Relationships & Family » Family activities
+   1 Category: Nonfiction » Relationships & Family » Family health
+   7 Category: Nonfiction » Relationships & Family » Family relationships
+   5 Category: Nonfiction » Relationships & Family » Fatherhood
+   7 Category: Nonfiction » Relationships & Family » Friendship
+   1 Category: Nonfiction » Relationships & Family » Learning disabilities
+   1 Category: Nonfiction » Relationships & Family » Life stages / adolescence
+   2 Category: Nonfiction » Relationships & Family » Life stages / general
+   1 Category: Nonfiction » Relationships & Family » Life stages / school age
+  13 Category: Nonfiction » Relationships & Family » Marriage
+   3 Category: Nonfiction » Relationships & Family » Parenting
+   4 Category: Nonfiction » Relationships & Family » Parenting / child rearing
+   1 Category: Nonfiction » Relationships & Family » Parenting / parent & adult child
+   1 Category: Nonfiction » Relationships & Family » Peer pressure
+   2 Category: Nonfiction » Relationships & Family » Reference
+   2 Category: Nonfiction » Relationships & Family » Sex education
+   1 Category: Nonfiction » Religion & Spirituality
+   6 Category: Nonfiction » Religion & Spirituality » Ancient
+  18 Category: Nonfiction » Religion & Spirituality » Atheism/Agnosticism
+   1 Category: Nonfiction » Religion & Spirituality » Bahá’í
+   2 Category: Nonfiction » Religion & Spirituality » Bibles
+   1 Category: Nonfiction » Religion & Spirituality » Bibles » Christian Standard Bible / General
+   1 Category: Nonfiction » Religion & Spirituality » Bibles » Christian Standard Bible / Text
+   2 Category: Nonfiction » Religion & Spirituality » Bibles » Common English Bible / General
+   1 Category: Nonfiction » Religion & Spirituality » Bibles » English Standard Version / Text
+   4 Category: Nonfiction » Religion & Spirituality » Bibles » General
+   1 Category: Nonfiction » Religion & Spirituality » Bibles » King James Version / Devotional
+   5 Category: Nonfiction » Religion & Spirituality » Bibles » King James Version / General
+   1 Category: Nonfiction » Religion & Spirituality » Bibles » King James Version / New Testament & Portions
+   1 Category: Nonfiction » Religion & Spirituality » Bibles » King James Version / Study
+   2 Category: Nonfiction » Religion & Spirituality » Bibles » King James Version / Text
+   1 Category: Nonfiction » Religion & Spirituality » Bibles » New International Version / General
+   1 Category: Nonfiction » Religion & Spirituality » Bibles » Other Translations / General
+   2 Category: Nonfiction » Religion & Spirituality » Bibles » Other Translations / New Testament & Portions
+   1 Category: Nonfiction » Religion & Spirituality » Bibles » Other Translations / Reference
+   3 Category: Nonfiction » Religion & Spirituality » Biblical Biography / General
+   5 Category: Nonfiction » Religion & Spirituality » Biblical Biography / New Testament
+   1 Category: Nonfiction » Religion & Spirituality » Biblical Biography / Old Testament
+  19 Category: Nonfiction » Religion & Spirituality » Biblical Commentary / General
+  35 Category: Nonfiction » Religion & Spirituality » Biblical Commentary / New Testament
+  25 Category: Nonfiction » Religion & Spirituality » Biblical Commentary / Old Testament
+  12 Category: Nonfiction » Religion & Spirituality » Biblical Criticism & Interpretation / General
+   3 Category: Nonfiction » Religion & Spirituality » Biblical Criticism & Interpretation / New Testament
+  11 Category: Nonfiction » Religion & Spirituality » Biblical Meditations / General
+   3 Category: Nonfiction » Religion & Spirituality » Biblical Meditations / New Testament
+   1 Category: Nonfiction » Religion & Spirituality » Biblical Meditations / Old Testament
+   7 Category: Nonfiction » Religion & Spirituality » Biblical Reference / General
+   3 Category: Nonfiction » Religion & Spirituality » Biblical Reference / Handbooks
+   1 Category: Nonfiction » Religion & Spirituality » Biblical Reference / Quotations
+ 113 Category: Nonfiction » Religion & Spirituality » Biblical Studies / Bible Study Guides
+  22 Category: Nonfiction » Religion & Spirituality » Biblical Studies / Exegesis & Hermeneutics
+   2 Category: Nonfiction » Religion & Spirituality » Biblical Studies / History & Culture
+  19 Category: Nonfiction » Religion & Spirituality » Biblical Studies / Jesus, the Gospels & Acts
+  21 Category: Nonfiction » Religion & Spirituality » Biblical Studies / New Testament
+   5 Category: Nonfiction » Religion & Spirituality » Biblical Studies / Old Testament
+   4 Category: Nonfiction » Religion & Spirituality » Biblical Studies / Paul’s Letters
+  42 Category: Nonfiction » Religion & Spirituality » Biblical Studies / Prophecy
+   4 Category: Nonfiction » Religion & Spirituality » Biblical Studies / Wisdom Literature
+   5 Category: Nonfiction » Religion & Spirituality » Blasphemy, Heresy, & Apostasy
+   3 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Ancient mysteries & controversial knowledge
+   1 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Channeling & mediumship
+   1 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Divination / general
+   1 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Gaia & earth energies
+   3 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Healing / general
+   1 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Healing / prayer & spiritual
+   9 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Inspiration & personal growth
+   3 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » New thought
+   1 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Occultism
+   1 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Parapsychology / out-of-body experience
+   2 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Prophecy
+  10 Category: Nonfiction » Religion & Spirituality » Body, mind, & spirit » Spirituality / general
+   3 Category: Nonfiction » Religion & Spirituality » Buddhism
+   2 Category: Nonfiction » Religion & Spirituality » Buddhism » History
+  12 Category: Nonfiction » Religion & Spirituality » Buddhism » Rituals & Practice
+   4 Category: Nonfiction » Religion & Spirituality » Buddhism » Sacred Writings
+   3 Category: Nonfiction » Religion & Spirituality » Buddhism » Theravada
+   4 Category: Nonfiction » Religion & Spirituality » Buddhism » Tibetan
+   1 Category: Nonfiction » Religion & Spirituality » Buddhism » Zen
+  26 Category: Nonfiction » Religion & Spirituality » Catholicism
+   1 Category: Nonfiction » Religion & Spirituality » Christian Church / Administration
+   1 Category: Nonfiction » Religion & Spirituality » Christian Church / Canon & Ecclesiastical Law
+  11 Category: Nonfiction » Religion & Spirituality » Christian Church / General
+  10 Category: Nonfiction » Religion & Spirituality » Christian Church / Growth
+  12 Category: Nonfiction » Religion & Spirituality » Christian Church / History
+  10 Category: Nonfiction » Religion & Spirituality » Christian Church / Leadership
+   1 Category: Nonfiction » Religion & Spirituality » Christian Education / Adult
+   4 Category: Nonfiction » Religion & Spirituality » Christian Education / General
+   4 Category: Nonfiction » Religion & Spirituality » Christian Life / Death, Grief, Bereavement
+  32 Category: Nonfiction » Religion & Spirituality » Christian Life / Devotional
+  11 Category: Nonfiction » Religion & Spirituality » Christian Life / Family
+  65 Category: Nonfiction » Religion & Spirituality » Christian Life / General
+  60 Category: Nonfiction » Religion & Spirituality » Christian Life / Inspirational
+   3 Category: Nonfiction » Religion & Spirituality » Christian Life / Love & Marriage
+   3 Category: Nonfiction » Religion & Spirituality » Christian Life / Men’s Issues
+  33 Category: Nonfiction » Religion & Spirituality » Christian Life / Personal Growth
+  21 Category: Nonfiction » Religion & Spirituality » Christian Life / Prayer
+   2 Category: Nonfiction » Religion & Spirituality » Christian Life / Professional Growth
+   7 Category: Nonfiction » Religion & Spirituality » Christian Life / Relationships
+   2 Category: Nonfiction » Religion & Spirituality » Christian Life / Social Issues
+  91 Category: Nonfiction » Religion & Spirituality » Christian Life / Spiritual Growth
+  16 Category: Nonfiction » Religion & Spirituality » Christian Life / Spiritual Warfare
+   5 Category: Nonfiction » Religion & Spirituality » Christian Life / Stewardship & Giving
+   5 Category: Nonfiction » Religion & Spirituality » Christian Life / Women’s Issues
+   1 Category: Nonfiction » Religion & Spirituality » Christian Ministry / Adult
+   4 Category: Nonfiction » Religion & Spirituality » Christian Ministry / Children
+   2 Category: Nonfiction » Religion & Spirituality » Christian Ministry / Counseling & Recovery
+  11 Category: Nonfiction » Religion & Spirituality » Christian Ministry / Discipleship
+  24 Category: Nonfiction » Religion & Spirituality » Christian Ministry / Evangelism
+   8 Category: Nonfiction » Religion & Spirituality » Christian Ministry / General
+  21 Category: Nonfiction » Religion & Spirituality » Christian Ministry / Missions
+   6 Category: Nonfiction » Religion & Spirituality » Christian Ministry / Pastoral Resources
+   6 Category: Nonfiction » Religion & Spirituality » Christian Ministry / Preaching
+   4 Category: Nonfiction » Religion & Spirituality » Christian Ministry / Youth
+   2 Category: Nonfiction » Religion & Spirituality » Christian Rituals & Practice / General
+   1 Category: Nonfiction » Religion & Spirituality » Christian Rituals & Practice / Worship & Liturgy
+   1 Category: Nonfiction » Religion & Spirituality » Christian Theology / Angelology & Demonology
+   1 Category: Nonfiction » Religion & Spirituality » Christian Theology / Anthropology
+  11 Category: Nonfiction » Religion & Spirituality » Christian Theology / Apologetics
+   3 Category: Nonfiction » Religion & Spirituality » Christian Theology / Christology
+   5 Category: Nonfiction » Religion & Spirituality » Christian Theology / Ecclesiology
+  16 Category: Nonfiction » Religion & Spirituality » Christian Theology / Eschatology
+   4 Category: Nonfiction » Religion & Spirituality » Christian Theology / Ethics
+  25 Category: Nonfiction » Religion & Spirituality » Christian Theology / General
+   2 Category: Nonfiction » Religion & Spirituality » Christian Theology / Pneumatology
+   6 Category: Nonfiction » Religion & Spirituality » Christian Theology / Soteriology
+   2 Category: Nonfiction » Religion & Spirituality » Christian Theology / Systematic
+ 150 Category: Nonfiction » Religion & Spirituality » Christianity
+   1 Category: Nonfiction » Religion & Spirituality » Christianity / Amish
+   1 Category: Nonfiction » Religion & Spirituality » Christianity / Baptist
+   8 Category: Nonfiction » Religion & Spirituality » Christianity / Denominations
+   1 Category: Nonfiction » Religion & Spirituality » Christianity / History
+   2 Category: Nonfiction » Religion & Spirituality » Christianity / Jehovah’s Witnesses
+   3 Category: Nonfiction » Religion & Spirituality » Christianity / Lutheran
+   2 Category: Nonfiction » Religion & Spirituality » Christianity / Orthodox
+   9 Category: Nonfiction » Religion & Spirituality » Christianity / Pentecostal & Charismatic
+   1 Category: Nonfiction » Religion & Spirituality » Christianity / Seventh-Day Adventist
+   2 Category: Nonfiction » Religion & Spirituality » Clergy
+  19 Category: Nonfiction » Religion & Spirituality » Comparative Religion
+   1 Category: Nonfiction » Religion & Spirituality » Confucianism
+   3 Category: Nonfiction » Religion & Spirituality » Counseling
+   2 Category: Nonfiction » Religion & Spirituality » Demonology & Satanism
+  17 Category: Nonfiction » Religion & Spirituality » Devotional
+   8 Category: Nonfiction » Religion & Spirituality » Eastern mysticism
+ 112 Category: Nonfiction » Religion & Spirituality » Education
+   6 Category: Nonfiction » Religion & Spirituality » Eschatology
+   4 Category: Nonfiction » Religion & Spirituality » Essays
+   7 Category: Nonfiction » Religion & Spirituality » Ethics
+  29 Category: Nonfiction » Religion & Spirituality » Faith
+   1 Category: Nonfiction » Religion & Spirituality » Fundamentalism
+   2 Category: Nonfiction » Religion & Spirituality » Hinduism » History
+   2 Category: Nonfiction » Religion & Spirituality » Hinduism » Rituals & practice
+   3 Category: Nonfiction » Religion & Spirituality » Hinduism » Sacred writings
+   4 Category: Nonfiction » Religion & Spirituality » Hinduism » Theology
+   1 Category: Nonfiction » Religion & Spirituality » Holidays / Easter & Lent
+   2 Category: Nonfiction » Religion & Spirituality » Holidays / Jewish
+  23 Category: Nonfiction » Religion & Spirituality » Inspirational
+  57 Category: Nonfiction » Religion & Spirituality » Islam
+  32 Category: Nonfiction » Religion & Spirituality » Islam » Prayerbooks
+  74 Category: Nonfiction » Religion & Spirituality » Islam » Prayerbooks / Islamic
+  19 Category: Nonfiction » Religion & Spirituality » Islam / History
+  29 Category: Nonfiction » Religion & Spirituality » Islam / Koran & Sacred Writings
+  10 Category: Nonfiction » Religion & Spirituality » Islam / Rituals & Practice
+  11 Category: Nonfiction » Religion & Spirituality » Islam / Shi'a
+   4 Category: Nonfiction » Religion & Spirituality » Islam / Sufi
+   5 Category: Nonfiction » Religion & Spirituality » Islam / Sunni
+  20 Category: Nonfiction » Religion & Spirituality » Islam / Theology
+   2 Category: Nonfiction » Religion & Spirituality » Judaism
+   1 Category: Nonfiction » Religion & Spirituality » Judaism / History
+   1 Category: Nonfiction » Religion & Spirituality » Judaism / Kabbalah & Mysticism
+   1 Category: Nonfiction » Religion & Spirituality » Judaism / Orthodox
+   1 Category: Nonfiction » Religion & Spirituality » Judaism / Talmud
+   4 Category: Nonfiction » Religion & Spirituality » Judaism / Theology
+   1 Category: Nonfiction » Religion & Spirituality » Leadership
+   6 Category: Nonfiction » Religion & Spirituality » Meditations
+   7 Category: Nonfiction » Religion & Spirituality » Messianic Judaism
+   9 Category: Nonfiction » Religion & Spirituality » Mormonism
+   6 Category: Nonfiction » Religion & Spirituality » Prayer
+   4 Category: Nonfiction » Religion & Spirituality » Prayerbooks / Christian
+   1 Category: Nonfiction » Religion & Spirituality » Protestantism
+   4 Category: Nonfiction » Religion & Spirituality » Psychology of Religion
+  40 Category: Nonfiction » Religion & Spirituality » Religion & Science
+   9 Category: Nonfiction » Religion & Spirituality » Religion & politics
+   7 Category: Nonfiction » Religion & Spirituality » Religious Intolerance, Persecution, & Conflict
+   2 Category: Nonfiction » Religion & Spirituality » Religious cults
+   3 Category: Nonfiction » Religion & Spirituality » Religious history
+  13 Category: Nonfiction » Religion & Spirituality » Religious philosophy
+  57 Category: Nonfiction » Religion & Spirituality » Self-realization
+  26 Category: Nonfiction » Religion & Spirituality » Sermons / Christian
+   2 Category: Nonfiction » Religion & Spirituality » Sermons / General
+   1 Category: Nonfiction » Religion & Spirituality » Sermons / Jewish
+  96 Category: Nonfiction » Religion & Spirituality » Spiritual awakening
+  16 Category: Nonfiction » Religion & Spirituality » Theology
+   1 Category: Nonfiction » Religion & Spirituality » Theosophy
+   1 Category: Nonfiction » Religion & Spirituality » Unitarian Universalism
+  18 Category: Nonfiction » Religion & Spirituality » Yoga
+   9 Category: Nonfiction » Science & Nature » Agricultural science
+   1 Category: Nonfiction » Science & Nature » Amateur naturalist » Ecology
+   2 Category: Nonfiction » Science & Nature » Animal husbandry
+   8 Category: Nonfiction » Science & Nature » Animals
+   3 Category: Nonfiction » Science & Nature » Applied Sciences
+   2 Category: Nonfiction » Science & Nature » Archaeology
+   4 Category: Nonfiction » Science & Nature » Astronomy
+   6 Category: Nonfiction » Science & Nature » Biology
+   3 Category: Nonfiction » Science & Nature » Biotechnology
+   2 Category: Nonfiction » Science & Nature » Botany
+   3 Category: Nonfiction » Science & Nature » Chemistry
+   1 Category: Nonfiction » Science & Nature » Chemistry / Environmental	Environmental Science
+   2 Category: Nonfiction » Science & Nature » Chemistry / Industrial & Technical
+   1 Category: Nonfiction » Science & Nature » Cognitive Science
+   9 Category: Nonfiction » Science & Nature » Cosmos
+   3 Category: Nonfiction » Science & Nature » Earth sciences
+   5 Category: Nonfiction » Science & Nature » Ecology & Environment
+   4 Category: Nonfiction » Science & Nature » Energy
+  12 Category: Nonfiction » Science & Nature » Environment
+  43 Category: Nonfiction » Science & Nature » Evolution
+   2 Category: Nonfiction » Science & Nature » Experiments & Projects
+   3 Category: Nonfiction » Science & Nature » Farming
+   7 Category: Nonfiction » Science & Nature » Forestry
+   1 Category: Nonfiction » Science & Nature » Geography
+   8 Category: Nonfiction » Science & Nature » Global Warming & Climate Change
+   1 Category: Nonfiction » Science & Nature » Gravity
+   3 Category: Nonfiction » Science & Nature » History of Science
+   5 Category: Nonfiction » Science & Nature » Life Sciences / Anatomy & Physiology	Life Sciences / Human Anatomy & Physiology
+   1 Category: Nonfiction » Science & Nature » Life Sciences / Biochemistry
+   3 Category: Nonfiction » Science & Nature » Life Sciences / Biological Diversity
+   3 Category: Nonfiction » Science & Nature » Life Sciences / Cell Biology
+   3 Category: Nonfiction » Science & Nature » Life Sciences / General
+   1 Category: Nonfiction » Science & Nature » Life Sciences / Genetics & Genomics
+   2 Category: Nonfiction » Science & Nature » Life Sciences / Marine Biology
+   2 Category: Nonfiction » Science & Nature » Life Sciences / Microbiology
+   1 Category: Nonfiction » Science & Nature » Life Sciences / Molecular Biology
+   3 Category: Nonfiction » Science & Nature » Life Sciences / Neuroscience
+   2 Category: Nonfiction » Science & Nature » Life Sciences / Zoology / General
+   2 Category: Nonfiction » Science & Nature » Life Sciences / Zoology / Ichthyology & Herpetology
+   1 Category: Nonfiction » Science & Nature » Life Sciences / Zoology / Invertebrates
+   1 Category: Nonfiction » Science & Nature » Life Sciences / Zoology / Ornithology
+   2 Category: Nonfiction » Science & Nature » Mathematics » Logic
+   1 Category: Nonfiction » Science & Nature » Medical science
+   1 Category: Nonfiction » Science & Nature » Meteorology & Climate
+   9 Category: Nonfiction » Science & Nature » Nature
+   1 Category: Nonfiction » Science & Nature » Paleontology
+   9 Category: Nonfiction » Science & Nature » Philosophy of Science
+  11 Category: Nonfiction » Science & Nature » Physics
+   2 Category: Nonfiction » Science & Nature » Physics / Astrophysics
+   1 Category: Nonfiction » Science & Nature » Physics / Electromagnetism
+   2 Category: Nonfiction » Science & Nature » Physics / Quantum Theory
+   4 Category: Nonfiction » Science & Nature » Physics / Relativity
+   3 Category: Nonfiction » Science & Nature » Research & Methodology
+   1 Category: Nonfiction » Science & Nature » Scientific Instruments
+   2 Category: Nonfiction » Science & Nature » System Theory
+   4 Category: Nonfiction » Science & Nature » Time
+   3 Category: Nonfiction » Self-improvement » Abuse
+  18 Category: Nonfiction » Self-improvement » Addiction & recovery
+   5 Category: Nonfiction » Self-improvement » Anxieties & Phobias
+  15 Category: Nonfiction » Self-improvement » Confidence & self-esteem
+  11 Category: Nonfiction » Self-improvement » Creativity
+   1 Category: Nonfiction » Self-improvement » Death, Grief, Bereavement
+   6 Category: Nonfiction » Self-improvement » Depression
+   1 Category: Nonfiction » Self-improvement » Dreams
+   1 Category: Nonfiction » Self-improvement » Eating Disorders
+  10 Category: Nonfiction » Self-improvement » Emotional healing
+   4 Category: Nonfiction » Self-improvement » Healthy aging
+   2 Category: Nonfiction » Self-improvement » Inner Child
+   1 Category: Nonfiction » Self-improvement » Mood Disorders
+  62 Category: Nonfiction » Self-improvement » Motivation & inspiration
+   1 Category: Nonfiction » Self-improvement » Neuro-Linguistic Programming (NLP)
+  74 Category: Nonfiction » Self-improvement » Personal Growth / General
+   2 Category: Nonfiction » Self-improvement » Personal Growth / Memory Improvement
+  37 Category: Nonfiction » Self-improvement » Personal Growth / Success
+  16 Category: Nonfiction » Self-improvement » Religion & self-improvement
+   2 Category: Nonfiction » Self-improvement » Sexuality
+   5 Category: Nonfiction » Self-improvement » Stress Management
+   4 Category: Nonfiction » Self-improvement » Substance Abuse & Addictions / Alcoholism
+   1 Category: Nonfiction » Self-improvement » Time Management
+   1 Category: Nonfiction » Sex & Relationships  » History of sex
+   3 Category: Nonfiction » Sex & Relationships  » Men's sexuality
+   7 Category: Nonfiction » Sex & Relationships  » Sex & culture
+   2 Category: Nonfiction » Sex & Relationships  » Sex & politics
+   8 Category: Nonfiction » Sex & Relationships  » Sex & religion
+   2 Category: Nonfiction » Sex & Relationships  » Sex guides & how tos
+   2 Category: Nonfiction » Sex & Relationships  » Sex research
+   1 Category: Nonfiction » Sex & Relationships  » Sexual alternatives
+   6 Category: Nonfiction » Sex & Relationships  » Sexual behavior
+   1 Category: Nonfiction » Sex & Relationships  » Sexual enhancement
+   1 Category: Nonfiction » Sex & Relationships  » Sexual health
+   3 Category: Nonfiction » Sex & Relationships  » Women's sexuality
+   1 Category: Nonfiction » Social Science » Abortion & Birth Control
+  38 Category: Nonfiction » Social Science » Agriculture & food
+   2 Category: Nonfiction » Social Science » Anthropology
+   3 Category: Nonfiction » Social Science » Anthropology / Cultural
+   1 Category: Nonfiction » Social Science » Archaeology
+   2 Category: Nonfiction » Social Science » Black studies (global)
+   1 Category: Nonfiction » Social Science » Children's Studies
+   1 Category: Nonfiction » Social Science » Conspiracy theories
+   2 Category: Nonfiction » Social Science » Criminology
+   1 Category: Nonfiction » Social Science » Customs & Traditions
+   2 Category: Nonfiction » Social Science » Demography
+   3 Category: Nonfiction » Social Science » Developing & Emerging Countries
+   1 Category: Nonfiction » Social Science » Disasters & Disaster Relief
+   2 Category: Nonfiction » Social Science » Discrimination & Race Relations
+   1 Category: Nonfiction » Social Science » Ethnic Studies / Asian American Studies
+   1 Category: Nonfiction » Social Science » Ethnic studies
+   1 Category: Nonfiction » Social Science » Freemasonry & Secret Societies
+   2 Category: Nonfiction » Social Science » Future Studies
+   1 Category: Nonfiction » Social Science » Gender studies
+   2 Category: Nonfiction » Social Science » Global society studies
+   1 Category: Nonfiction » Social Science » Human Services
+   2 Category: Nonfiction » Social Science » Immigration & Emigration
+   3 Category: Nonfiction » Social Science » Islamic studies
+   1 Category: Nonfiction » Social Science » Linguistics / Sociolinguistics
+  10 Category: Nonfiction » Social Science » Media studies
+   3 Category: Nonfiction » Social Science » Methodology
+   1 Category: Nonfiction » Social Science » Mythology, folklore, & legend
+   1 Category: Nonfiction » Social Science » Penology
+   1 Category: Nonfiction » Social Science » People with Disabilities
+   1 Category: Nonfiction » Social Science » Philanthropy & Charity
+   1 Category: Nonfiction » Social Science » Political science
+   1 Category: Nonfiction » Social Science » Political science » Human rights
+   1 Category: Nonfiction » Social Science » Political science » International relations / diplomacy
+   2 Category: Nonfiction » Social Science » Political science » International relations / general
+   1 Category: Nonfiction » Social Science » Political science » Peace
+   2 Category: Nonfiction » Social Science » Political science » Political freedom
+   1 Category: Nonfiction » Social Science » Political science » Political process / elections
+   1 Category: Nonfiction » Social Science » Political science » Public policy / general
+   1 Category: Nonfiction » Social Science » Political science » Reference
+   2 Category: Nonfiction » Social Science » Poverty & Homelessness
+   2 Category: Nonfiction » Social Science » Reference
+   3 Category: Nonfiction » Social Science » Research
+   2 Category: Nonfiction » Social Science » Social Work
+   4 Category: Nonfiction » Social Science » Social classes
+   3 Category: Nonfiction » Social Science » Social psychology
+  10 Category: Nonfiction » Social Science » Sociology
+   1 Category: Nonfiction » Social Science » Sociology / Marriage & Family
+   1 Category: Nonfiction » Social Science » Sociology / Rural
+   2 Category: Nonfiction » Social Science » Sociology / Urban
+   1 Category: Nonfiction » Social Science » Storytelling
+   1 Category: Nonfiction » Social Science » True crime
+   3 Category: Nonfiction » Social Science » Violence in Society
+   2 Category: Nonfiction » Social Science » Volunteer Work
+   3 Category: Nonfiction » Social Science » Women's studies
+   1 Category: Nonfiction » Sports & outdoor recreation » Backpacking
+   7 Category: Nonfiction » Sports & outdoor recreation » Baseball
+   1 Category: Nonfiction » Sports & outdoor recreation » Baseball / Essays & Writings
+   3 Category: Nonfiction » Sports & outdoor recreation » Baseball / History
+   2 Category: Nonfiction » Sports & outdoor recreation » Bicycling
+   1 Category: Nonfiction » Sports & outdoor recreation » Boating & sailing
+   1 Category: Nonfiction » Sports & outdoor recreation » Boxing
+   1 Category: Nonfiction » Sports & outdoor recreation » Coaching / Baseball
+   1 Category: Nonfiction » Sports & outdoor recreation » Coaching / Football
+   1 Category: Nonfiction » Sports & outdoor recreation » Coaching / Soccer
+   1 Category: Nonfiction » Sports & outdoor recreation » Essays
+   1 Category: Nonfiction » Sports & outdoor recreation » Extreme sports
+   3 Category: Nonfiction » Sports & outdoor recreation » Fishing
+  15 Category: Nonfiction » Sports & outdoor recreation » Football & rugby » American football
+   7 Category: Nonfiction » Sports & outdoor recreation » Football & rugby » Soccer (association football)
+   1 Category: Nonfiction » Sports & outdoor recreation » Golf
+   3 Category: Nonfiction » Sports & outdoor recreation » Hiking
+   2 Category: Nonfiction » Sports & outdoor recreation » History
+   1 Category: Nonfiction » Sports & outdoor recreation » Hockey
+   2 Category: Nonfiction » Sports & outdoor recreation » Martial arts
+   2 Category: Nonfiction » Sports & outdoor recreation » Motor sports
+   1 Category: Nonfiction » Sports & outdoor recreation » Mountaineering
+   1 Category: Nonfiction » Sports & outdoor recreation » Parasailing & hang gliding
+   6 Category: Nonfiction » Sports & outdoor recreation » Running & jogging
+   1 Category: Nonfiction » Sports & outdoor recreation » Sailing
+   1 Category: Nonfiction » Sports & outdoor recreation » Scuba & Snorkeling
+   1 Category: Nonfiction » Sports & outdoor recreation » Shooting
+   2 Category: Nonfiction » Sports & outdoor recreation » Sports business
+   1 Category: Nonfiction » Sports & outdoor recreation » Sports statistics
+   1 Category: Nonfiction » Sports & outdoor recreation » Sports training
+   1 Category: Nonfiction » Sports & outdoor recreation » Table Tennis
+   4 Category: Nonfiction » Sports & outdoor recreation » Wrestling
+   1 Category: Nonfiction » Transportation » Automotive / History
+   1 Category: Nonfiction » Transportation » Aviation / Piloting & Flight Instruction
+   1 Category: Nonfiction » Transportation » Railroads
+   1 Category: Nonfiction » Transportation » Railroads / History
+   1 Category: Nonfiction » Transportation » Transportation planning
+   1 Category: Nonfiction » Travel
+   4 Category: Nonfiction » Travel » Budget
+   1 Category: Nonfiction » Travel » By region » Africa » South Africa
+   2 Category: Nonfiction » Travel » By region » Asia » China
+   4 Category: Nonfiction » Travel » By region » Asia » India
+   2 Category: Nonfiction » Travel » By region » Asia » Japan
+   1 Category: Nonfiction » Travel » By region » Europe
+   2 Category: Nonfiction » Travel » By region » Europe » Albania
+   2 Category: Nonfiction » Travel » By region » Europe » France
+   2 Category: Nonfiction » Travel » By region » Europe » Ireland
+   1 Category: Nonfiction » Travel » By region » Europe » Italy
+   1 Category: Nonfiction » Travel » By region » Europe » Portugal (including Azores)
+   1 Category: Nonfiction » Travel » By region » Europe » Scotland
+   1 Category: Nonfiction » Travel » By region » Europe » Spain
+   2 Category: Nonfiction » Travel » By region » Europe » United Kingdom
+   1 Category: Nonfiction » Travel » By region » Europe » Western Europe
+   2 Category: Nonfiction » Travel » By region » North America » Canada » British Columbia
+   1 Category: Nonfiction » Travel » By region » North America » Canada » Ontario
+   2 Category: Nonfiction » Travel » By region » North America » Central America
+   1 Category: Nonfiction » Travel » By region » North America » General
+   2 Category: Nonfiction » Travel » By region » North America » Mexico
+   1 Category: Nonfiction » Travel » By region » North America » USA » Hawaii
+   1 Category: Nonfiction » Travel » By region » North America » USA » South » West South Central (AR, LA, OK, & TX)
+   1 Category: Nonfiction » Travel » By region » Polar regions
+   1 Category: Nonfiction » Travel » By region » Russia
+   1 Category: Nonfiction » Travel » By region » South America
+   1 Category: Nonfiction » Travel » By region » South America » Brazil
+   1 Category: Nonfiction » Travel » By region » South America » Peru
+   3 Category: Nonfiction » Travel » Camping & RVing
+  24 Category: Nonfiction » Travel » Essays & Travelogues
+   2 Category: Nonfiction » Travel » Hikes & walks
+   2 Category: Nonfiction » Travel » Museums of the World
+   1 Category: Nonfiction » Travel » Phrasebooks
+   3 Category: Nonfiction » Travel » Road travel
+   7 Category: Nonfiction » Travel » Specialties & interests » Adventure
+   1 Category: Nonfiction » Travel » Specialties & interests » Business
+   1 Category: Nonfiction » Travel » Specialties & interests » Essays & Travelogues
+   1 Category: Nonfiction » Travel » Specialties & interests » General
+   1 Category: Nonfiction » Travel » Specialties & interests » Religious
+   5 Category: Nonfiction » Travel » Travel - Reference
+   1 Category: Nonfiction » Travel » Travel photography
+  18 Category: Nonfiction » Travel » Trip Journals
+   2 Category: Nonfiction » True Crime » Assassinations & Conspiracies
+   1 Category: Nonfiction » True Crime » Drug trade
+   1 Category: Nonfiction » True Crime » Espionage
+   1 Category: Nonfiction » True Crime » Family violence
+   3 Category: Nonfiction » True Crime » General crimes
+   1 Category: Nonfiction » True Crime » Kidnapping, abduction, hostage taking
+   2 Category: Nonfiction » True Crime » Missing persons
+   2 Category: Nonfiction » True Crime » Murder » General
+   2 Category: Nonfiction » True Crime » Murder » Serial killers
+   1 Category: Nonfiction » True Crime » Nonviolent
+   5 Category: Nonfiction » True Crime » Organized crime
+   1 Category: Nonfiction » True Crime » Piracy
+   2 Category: Nonfiction » True Crime » White-collar crime
+   1 Category: Nonfiction » Weddings » Bride preparation
+   1 Category: Nonfiction » Weddings » Groom preparation
+  10 Category: Plays » American / African American
+   3 Category: Plays » Ancient & Classical
+   1 Category: Plays » Australian & Oceanian
+   5 Category: Plays » European / English, Irish, Scottish, Welsh
+   1 Category: Plays » European / French
+   1 Category: Plays » Gay & Lesbian
+   4 Category: Plays » Religious & Liturgical
+   4 Category: Plays » Shakespeare
+   3 Category: Plays » Women Authors
+  18 Category: Screenplays » Action Adventure
+   4 Category: Screenplays » Animation
+   5 Category: Screenplays » Biographical
+  12 Category: Screenplays » Comedy
+   1 Category: Screenplays » Crime
+   8 Category: Screenplays » Drama
+   3 Category: Screenplays » Film-Noir
+   4 Category: Screenplays » History
+   4 Category: Screenplays » Horror
+   4 Category: Screenplays » Mystery
+   1 Category: Screenplays » Period piece
+   6 Category: Screenplays » Romance
+   4 Category: Screenplays » Sci-Fi
+   2 Category: Screenplays » Thriller
+   1 Category: Screenplays » War
+   1 Category: Screenplays » Western

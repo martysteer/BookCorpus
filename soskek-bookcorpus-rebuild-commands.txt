@@ -1,0 +1,58 @@
+Commands to download and rebuild sosek-bookcorpus.
+---
+
+# download the corpus from the eye
+wget -r -np -nH -c --cut-dirs=1 -R index.html https://the-eye.eu/public/AI/pile_preliminary_components/books1.tar.gz
+
+wget -r -np -nH -c --cut-dirs=1 -R index.html https://the-eye.eu/public/AI/pile_preliminary_components/books3.tar.gz
+
+# bookcorpus 2 is linked to as a download script, not as a downloadable corpus.
+# attempt to recreate a bit.
+cd
+cd Projects/webscifi/bookcorpus2
+git clone https://github.com/soskek/bookcorpus.git .
+
+# Get a list of all the genres to check there might be texts of interest
+jq  -r '.genres[]' ./url_list.jsonl | sed 's/^ *//;s/ *$//' | sort | uniq -c > genres.txt
+
+# Tried the git repo's own download file and it half worked but a lot of errors
+# I think due to not being logged in.
+pip install -r requirements.txt
+python download_files.py --list url_list.jsonl --out out_txts --trash-bad-count
+
+# Decided to extract the list of URLs and try to download separately.
+# There are txt and epub URL's.
+jq  -r '.txt' ./url_list.jsonl | sed 's/^ *//;s/ *$//' | sort | uniq > url_list.txt
+jq  -r '.epub' ./url_list.jsonl | sed 's/^ *//;s/ *$//' | sort | uniq > url_list.epubs.txt
+
+# Tried wget, but this was trying all the error URL's
+wget -nH -i url_list.txt
+wget -nH -p ./books -i url_list.txt
+
+# Attempted trafilatura, but again, too many error URL's.
+trafilatura --help
+trafilatura -i url_list.txt -o ./books --backup-dir ./orig --keep-dirs
+<cancel>
+
+
+# Decided to use minet to verify the URL's, then download just the URL's which are available.
+minet
+minet --help
+minet resolve url url_list.txt -o url_list.checked.txt
+minet resolve url url_list.epubs.txt -o url_list.epubs.report.txt
+
+# This took about 5-6 hours to complete.
+
+# Next: cuts the report file and returns just URL's for 200 requets
+# Then feed this list to minet, to download them
+csvgrep -c4 -m 200  url_list.report.csv | csvcut -c 3 > url_list.200.txt
+minet fetch resolved url_list.200.txt -o url_list # took about 2 hours.
+
+
+
+Okay, so this didn't work. The smashwords website has changed since this repository scraper was written. However, there is a provenance document and other online sources of info about the bookcorpus. Check in the ./data directory - what the bookcorpus.md and bookcorpus-sources.txt.
+
+What I think this repositoriy can contribute is the metadata and categories from the JSON file. Next step is to try to join the text files from the-eye with the metadata from this repository, so I can select out just a few specific categories of literature text files.
+
+MS, 2022-07-31
+
