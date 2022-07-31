@@ -4,6 +4,8 @@ This directory contains two variants of BookCorpus, one containing all the origi
 
 Here is a really interesting and quite complete online document about this corpus, which describes the provenance, data sources, access problems and research uses: https://gist.github.com/alvations/4d2278e5a5fbcf2e07f49315c4ec1110
 
+This repo is my notes in retrieving and understanding the bookcorpus, combinit it with some metadata found in a different place, so I can retrieve some texts in a specific category.
+
 ---
 
 "BookCorpus" smashwords txt file corpus
